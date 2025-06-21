@@ -17,9 +17,9 @@ If you’re looking to collaborate on impactful projects — let’s connect!
 
 ### Languages  
 <span>
-  <img src="https://res.cloudinary.com/your-cloud-name/image/upload/typescript.png" alt="TypeScript" width="40" style="margin-right:10px;"/>
-  <img src="https://res.cloudinary.com/your-cloud-name/image/upload/javascript.png" alt="JavaScript" width="40" style="margin-right:10px;"/>
-  <img src="https://res.cloudinary.com/your-cloud-name/image/upload/python.png" alt="Python" width="40" style="margin-right:10px;"/>
+  <img src="https://res.cloudinary.com/doqer4ldx/image/upload/v1750534119/typescript_e7k0br.png" alt="TypeScript" width="40" style="margin-right:10px;"/>
+  <img src="https://res.cloudinary.com/doqer4ldx/image/upload/v1750534119/typescript_e7k0br.png" alt="JavaScript" width="40" style="margin-right:10px;"/>
+  <img src="https://res.cloudinary.com/doqer4ldx/image/upload/v1750534119/typescript_e7k0br.png" alt="Python" width="40" style="margin-right:10px;"/>
 </span>
 
 <br>
@@ -59,3 +59,5 @@ Feel free to reach out:
 - 📧 Email: *your.email@example.com*  
 - 💼 [LinkedIn](https://linkedin.com/in/your-profile)  
 - 🌐 [Portfolio/Website](https://yourwebsite.com)
+
+
