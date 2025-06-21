@@ -4,10 +4,18 @@
 - Open for Work.
 
 ### Primary Techstack
-**Languages** <br>
-<img src="https://res.cloudinary.com/doqer4ldx/image/upload/typescript_e7k0br.png" alt="TypeScript" width="30"/>
-<img src="https://res.cloudinary.com/doqer4ldx/image/upload/js_tcr28a.png" alt="TypeScript" width="30"/>
 
-**ORM's** <br>
-<img src="https://res.cloudinary.com/doqer4ldx/image/upload/prism_loe3sb.png" alt="Prisma" width="30"/>
+**Languages**
 
+<span>
+  <img src="https://res.cloudinary.com/doqer4ldx/image/upload/typescript_e7k0br.png" alt="TypeScript" width="30" style="margin:10px;"/>
+  <img src="https://res.cloudinary.com/doqer4ldx/image/upload/js_tcr28a.png" alt="JavaScript" width="30" style="margin:10px;"/>
+</span>
+
+<br><br>
+
+**ORMs**
+
+<span>
+  <img src="https://res.cloudinary.com/doqer4ldx/image/upload/prism_loe3sb.png" alt="Prisma" width="30" style="margin:10px;"/>
+</span>
