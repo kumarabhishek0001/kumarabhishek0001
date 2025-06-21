@@ -1,19 +1,19 @@
-## 👋 Hi there! I'm Abhishek
+## Hi there! I'm Abhishek
 
 I’m a full stack developer passionate about building scalable, performant, and user-friendly applications. With a strong foundation in both frontend and backend technologies, I enjoy designing systems that are clean, reliable, and efficient.
 
-💼 **Currently open to full-time roles and freelance opportunities.**  
+**Currently open to full-time roles and freelance opportunities.**  
 If you’re looking to collaborate on impactful projects — let’s connect!
 
 ---
 
 ## 🚀 What I'm Working On
 
-- 🎬 [ProxyFlix](https://github.com/kumarabhishek0001/Proxyflix.git): Way to cheat through your attendence.
+- [ProxyFlix](https://github.com/kumarabhishek0001/Proxyflix.git): Way to cheat through your attendence.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Languages  
 ![js (Custom)](https://github.com/user-attachments/assets/bd8ca156-0bb2-401e-bed8-e9170a0e9c81)
@@ -44,14 +44,14 @@ If you’re looking to collaborate on impactful projects — let’s connect!
 ![icons8-vs-code-40](https://github.com/user-attachments/assets/0dfa8545-9753-4d1c-9934-ebdaac852e56)
 
 
-## 📫 Let's Connect
+##  Let's Connect
 
 I’m always open to new challenges, whether it’s a freelance project or a full-time opportunity.  
 Feel free to reach out:
 
 - 📧 Email: *your.email@example.com*  
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)  
-- 🌐 [Portfolio/Website](https://yourwebsite.com)
+-  [LinkedIn](https://linkedin.com/in/your-profile)  
+-  [Portfolio/Website](https://yourwebsite.com)
 
 
 
