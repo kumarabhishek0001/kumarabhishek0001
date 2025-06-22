@@ -1,6 +1,6 @@
 ## Hi there! I'm Abhishek
 
-I’m a full stack developer passionate about building scalable, performant, and user-friendly applications. With a strong foundation in both frontend and backend technologies, I enjoy designing systems that are clean, reliable, and efficient.
+Full stack developer with experience in building and maintaining web applications using modern frontend and backend technologies. Focused on clean architecture, code quality, and reliable system design
 
 **Currently open to full-time roles and freelance opportunities.**  
 If you’re looking to collaborate on impactful projects — let’s connect!
