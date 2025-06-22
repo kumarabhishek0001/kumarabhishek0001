@@ -36,8 +36,8 @@ I’m always open to new challenges, whether it’s a freelance project or a ful
 Feel free to reach out:
 
 - 📧 Email: *your.email@example.com*  
--  [LinkedIn](https://linkedin.com/in/your-profile)  
--  [Portfolio/Website](https://yourwebsite.com)
+- 🌐 [Portfolio](https://yourwebsite.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/akj001)  
 
 
 
