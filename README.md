@@ -35,7 +35,7 @@ If you’re looking to collaborate on impactful projects — let’s connect!
 I’m always open to new challenges, whether it’s a freelance project or a full-time opportunity.  
 Feel free to reach out:
 
-- 📧 Email: *your.email@example.com*  
+- 📧 Email: *abhishekjha1812@gmail.com*  
 - 🌐 [Portfolio](https://yourwebsite.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/akj001)  
 
